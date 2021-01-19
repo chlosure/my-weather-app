@@ -131,7 +131,8 @@ strong {
 }
 
 #day-time {
-  font-size: 15px;
+  font-size: 22px;
   color: #2ac9c9;
   text-transform: capitalize;
+  margin-left: 12px;
 }
