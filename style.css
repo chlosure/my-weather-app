@@ -136,3 +136,8 @@ strong {
   text-transform: capitalize;
   margin-left: 12px;
 }
+
+
+#description {
+  text-transform: capitalize;
+}
