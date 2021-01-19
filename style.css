@@ -1,0 +1,137 @@
+.weather-app {
+  font-family: "Poppins", sans-serif;
+  display: block;
+  border: solid 2px #22a5a5;
+  padding-top: 10px;
+  margin: 50px auto;
+  padding: 10px;
+  max-width: 800px;
+  border-radius: 20px;
+  background-image: linear-gradient(to top, #e4c08a 0%, #bff5f8 100%);
+}
+
+h3 {
+  font-size: 18px;
+  color: #2ac9c9;
+  text-align: right;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+
+p {
+  color: #2ac9c9;
+}
+
+strong {
+  color: #2f8787;
+}
+
+.col {
+  text-align: center;
+  color: #22a5a5;
+}
+
+#current-temperature {
+  font-size: 92px;
+  color: #22a5a5;
+}
+
+.image-description {
+  font-size: 92px;
+}
+
+.col-12 {
+  color: #22a5a5;
+}
+
+.col-sm {
+  text-align: center;
+  font-size: 20px;
+  color: #22a5a5;
+}
+
+#current-location-button {
+  background: #22a5a5;
+  color: #d1fdff;
+  font-size: 16px;
+  border: none;
+  border-radius: 6%;
+  box-shadow: 0px 2px 3px 0px gray;
+  padding: 5px 10px;
+  display: block;
+  align-items: center;
+}
+
+#current-location-button:hover {
+  background: #d1fdff;
+  color: #22a5a5;
+}
+
+#search-button {
+  color: #22a5a5;
+  border: solid #22a5a5;
+}
+
+#search-button:hover {
+  background: #22a5a5;
+  color: #d1fdff;
+}
+
+.current-description {
+  text-transform: capitalize;
+  color: #22a5a5;
+  font-size: 22px;
+}
+
+.open-source-link {
+  text-align: center;
+}
+
+.current-details {
+  text-align: left;
+}
+
+.units .active {
+  color: #22a5a5;
+  cursor: default;
+}
+
+.units .active:hover {
+  text-decoration: none;
+}
+
+.btn-primary,
+.btn-success {
+  background-color: #22a5a5;
+  border: solid #22a5a5;
+}
+
+.btn-primary,
+.btn-success:hover {
+  background: #d1fdff;
+  color: #22a5a5;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.location {
+  font-size: 35px;
+  color: #2ac9c9;
+  text-transform: capitalize;
+  text-align: left;
+  margin: 10px;
+}
+
+.form-control {
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#day-time {
+  font-size: 15px;
+  color: #2ac9c9;
+  text-transform: capitalize;
+}
